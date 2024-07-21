@@ -1,5 +1,5 @@
 provider "github" {
-  token = "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"
+  token = ""
 }
 
 resource "github_repository" "terraform-first-repo" {
